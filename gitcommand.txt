@@ -1,0 +1,6 @@
+git stauts
+git log
+git add "fil name"
+git commit -m "message"
+git push
+git pull
