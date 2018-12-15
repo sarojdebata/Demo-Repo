@@ -4,3 +4,8 @@ git add "fil name"
 git commit -m "message"
 git push
 git pull
+	
+$ git log -3    	--> see last 3 log 
+$ git log --oneline     --> see oneline
+
+$ git checkout          --> Discard your local changes
